@@ -1,0 +1,13 @@
+version: 1.5.2
+apkFileName: com.example.lifefm.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+sdkInfo:
+  minSdkVersion: '4'
+  targetSdkVersion: '17'
+packageInfo:
+  cur_package: com.example.lifefm
+  orig_package: com.example.lifefm
+compressionType: false
